@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #d3d3;
+  color: #FFF;
+}
+
+h1, #content {
+  width: max-content;
+}
